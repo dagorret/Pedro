@@ -1,0 +1,38 @@
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+        <style>
+            :root { --bg: #0d1117; --card: #161b22; --text: #f0f6fc; --accent: #58a6ff; --tech: #7ee787; --border: #30363d; }
+            body { background: var(--bg); color: var(--text); font-family: -apple-system, sans-serif; max-width: 1100px; margin: 0 auto; padding: 20px; }
+            .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+            .box { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px; }
+            .list-item { display: block; padding: 10px; border: 1px solid var(--border); margin-bottom: 5px; border-radius: 5px; color: var(--accent); text-decoration: none; font-size: 0.9em; }
+            .mag-section { margin-top: 50px; border-top: 2px solid var(--tech); padding-top: 20px; }
+            .mag-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; }
+            .mag-card { border: 1px solid var(--tech); color: var(--tech); padding: 15px; border-radius: 8px; text-decoration: none; text-align: center; font-weight: bold; }
+            footer { text-align: center; margin-top: 50px; color: #8b949e; font-size: 0.8em; }
+        </style>
+    </head>
+    <body>
+        <h1>🕵️ Carlos Dagorret Intelligence</h1>
+        <div class="grid">
+            <div class="box">
+                <h3>Último Briefing Diario</h3>
+                <zero-md src="dib/2026-01-22.md"><template><style>.markdown-body { background:transparent!important; color:#e6edf3!important; font-family:sans-serif; } h1,h2,h3 { color:#58a6ff!important; border-bottom:1px solid #30363d!important; }</style></template></zero-md>
+            </div>
+            <div class="box">
+                <h3>Historial</h3>
+                <a href="visor.html?src=dib/2026-01-21.md" class="list-item">📅 DIB - 2026-01-21</a><a href="visor.html?src=dib/2025-12-15.md" class="list-item">📅 DIB - 2025-12-15</a>
+            </div>
+        </div>
+        <div class="mag-section">
+            <h2>🔬 Tech Magazine Archive</h2>
+            <div class="mag-grid"><a href="visor_tech.html?src=mag/2026-01-23.md" class="mag-card">🛰️ MAGAZINE TECH - 2026-01-23</a></div>
+        </div>
+        <footer>Generado por Pedro, un proyecto basado en Gemini AI</footer>
+    </body>
+    </html>
+    

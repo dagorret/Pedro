@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor de Inteligencia - Carlos Dagorret</title>
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+    <style>
+        /* Estilo de la página exterior */
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+            background-color: #0d1117; 
+            color: #e6edf3; 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            line-height: 1.6;
+        }
+        nav { 
+            border-bottom: 1px solid #30363d; 
+            padding-bottom: 15px; 
+            margin-bottom: 25px; 
+        }
+        nav a { 
+            color: #58a6ff; 
+            text-decoration: none; 
+            font-weight: bold; 
+            font-size: 0.9em; 
+        }
+        nav a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">← Volver al Inicio</a>
+    </nav>
+
+    <zero-md id="v">
+        <template>
+            <style>
+                /* Esto sobreescribe el estilo interno del Markdown */
+                .markdown-body { 
+                    background: transparent !important; 
+                    color: #e6edf3 !important; 
+                    font-size: 17px;
+                }
+                h1, h2 { 
+                    border-bottom: 1px solid #30363d !important; 
+                    color: #58a6ff !important; 
+                    padding-bottom: 10px;
+                }
+                h3 { color: #79c0ff !important; }
+                strong { color: #ffa657 !important; }
+                a { color: #2f81f7 !important; }
+                code { background-color: rgba(110, 118, 129, 0.4) !important; border-radius: 6px; padding: 0.2em 0.4em; }
+                hr { background-color: #30363d !important; height: 1px !important; border: 0; margin: 24px 0; }
+            </style>
+        </template>
+    </zero-md>
+
+    <script>
+        // Lógica para cargar el archivo MD desde la URL (?src=...)
+        const params = new URLSearchParams(window.location.search);
+        const src = params.get('src');
+        if (src) {
+            document.getElementById('v').setAttribute('src', src);
+        } else {
+            document.body.innerHTML += "<p>Error: No se especificó un archivo de origen.</p>";
+        }
+    </script>
+
+</body>
+</html>

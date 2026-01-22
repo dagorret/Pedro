@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+    <style>
+        body { background: #0d1117; color: #f0f6fc; font-family: sans-serif; padding: 40px; max-width: 900px; margin: auto; }
+        .nav { margin-bottom: 20px; }
+        .nav a { color: #7ee787; text-decoration: none; font-weight: bold; }
+        .container { background: #161b22; border: 1px solid #7ee787; padding: 30px; border-radius: 12px; }
+    </style>
+</head>
+<body>
+    <div class="nav"><a href="index.html">← VOLVER AL DASHBOARD</a></div>
+    <div class="container">
+        <zero-md id="v">
+            <template>
+                <style>
+                    .markdown-body { background: transparent !important; color: #f0f6fc !important; }
+                    h1, h2, h3 { color: #7ee787 !important; }
+                    a { color: #58a6ff !important; }
+                    code { background: #21262d !important; color: #ff7b72 !important; }
+                </style>
+            </template>
+        </zero-md>
+    </div>
+    <script>
+        const p = new URLSearchParams(window.location.search);
+        if(p.get('src')) document.getElementById('v').setAttribute('src', p.get('src'));
+    </script>
+</body>
+</html>
