@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+pedro/
+
+# Datos temporales (opcional, si querés que GitHub empiece de cero)
+data/latest_news.json
+data/tech_accumulator.json
+
+# Entorno local
+.env

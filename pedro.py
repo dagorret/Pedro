@@ -1,29 +1,35 @@
-import os, subprocess, datetime
+import os
+import subprocess
+import datetime
 
 def main():
-    print(f"--- 🚀 PEDRO: INICIO DE CICLO [{datetime.datetime.now().strftime('%H:%M')}] ---")
+    print(f"--- 🚀 INICIO CICLO PEDRO: {datetime.datetime.now()} ---")
     
-    # 1. Traer noticias (Esto genera latest_news.json y tech_accumulator.json)
+    # 1. TRAER NOTICIAS (¡Este paso es vital!)
+    print("Paso 1: Recolectando noticias...")
+    # Asegúrate de que la ruta al script sea correcta
     subprocess.run(["python3", "scripts/fetch_news.py"])
 
-    # 2. Generar Reporte Diario (Usa latest_news.json)
-    subprocess.run(["python3", "scripts/ai_engine.py"])
-    
-    # 3. Borrar el JSON diario (El semanal NO se toca)
-    if os.path.exists("data/latest_news.json"):
-        with open("data/latest_news.json", "w") as f: f.write("[]")
-        print("🗑️ Memoria diaria borrada.")
+    # 2. Intentar generar Reporte Diario
+    print("Paso 2: Generando reporte...")
+    resultado_ai = subprocess.run(["python3", "scripts/ai_engine.py"])
 
-    # 4. Verificar si es VIERNES >= 20:00 para el Magazine
-    ahora = datetime.datetime.now()
-    if ahora.weekday() == 4 and ahora.hour >= 20:
-        print("📰 Es viernes 20hs. Generando Magazine Semanal Tech...")
-        subprocess.run(["python3", "scripts/magazine_engine.py"])
-        # El magazine_engine.py debe vaciar tech_accumulator.json al terminar
+    # 3. Borrado Inteligente
+    # Solo borramos si el código de salida fue 0 (éxito) Y si el reporte se generó
+    fecha_hoy = datetime.datetime.now().strftime("%Y-%m-%d")
+    reporte_existe = os.path.exists(f"docs/dib/{fecha_hoy}.md")
 
-    # 5. Reconstruir la Web
+    if resultado_ai.returncode == 0 and reporte_existe:
+        if os.path.exists("data/latest_news.json"):
+            with open("data/latest_news.json", "w") as f:
+                f.write("[]")
+            print("🗑️ Memoria diaria reseteada.")
+    else:
+        print("⚠️ No se borró el JSON: El reporte no se generó o no había noticias.")
+
+    # 4. Generar Web
     subprocess.run(["python3", "scripts/generator.py"])
-    print("✅ Ciclo Pedro completado.")
+    print("--- ✅ FIN DEL CICLO ---")
 
 if __name__ == "__main__":
     main()

@@ -1,90 +1,54 @@
 import os
 import json
+import sys
+import google.generativeai as genai
 from datetime import datetime
-from google import genai
 
-# CONFIGURACIÓN DE IDENTIDAD
-API_KEY = os.getenv("GOOGLE_API_KEY")
-client = genai.Client(api_key=API_KEY)
+# CONFIGURACIÓN SEGURA: Lee la clave desde las variables de entorno
+API_KEY = os.environ.get("GOOGLE_API_KEY")
 
-# --- DATOS DEL PROYECTO ---
-AUTOR = "Carlos Dagorret"
-PROYECTO_INFO = "Generado por Pedro, un proyecto basado en Gemini AI"
+if not API_KEY:
+    print("❌ ERROR: No se encontró la variable de entorno GOOGLE_API_KEY")
+    sys.exit(1)
 
-def generate_reports():
-    print(f"--- 🧠 Generando reporte para {AUTOR} ---")
-    
-    # Verificar si existen noticias
+genai.configure(api_key=API_KEY)
+model = genai.GenerativeModel('gemini-1.5-flash')
+
+def generate_report():
+    # ... (el resto del código se mantiene igual) ...
     if not os.path.exists("data/latest_news.json"):
-        print("❌ Error: No existe data/latest_news.json"); return
+        print("❌ No hay noticias para procesar.")
+        return
 
-    with open("data/latest_news.json", "r", encoding="utf-8") as f:
-        news_data = json.load(f)
+    with open("data/latest_news.json", "r") as f:
+        news = json.load(f)
 
-    # Filtrar noticias para el DIB
-    dib_news = [n for n in news_data if n.get("product") == "DIB"]
-    context_data = json.dumps(dib_news[:80], ensure_ascii=False)
+    if not news:
+        print("⚠️ El archivo de noticias está vacío.")
+        return
 
-    # FECHA ACTUAL
-    date_str = datetime.now().strftime("%Y-%m-%d")
-
-    # PROMPT DE INTELIGENCIA PURA (Sin saludos, directo al grano)
-    prompt = f"""
-    ACTÚA COMO UN ANALISTA SENIOR DE INTELIGENCIA CON PENSAMIENTO CRÍTICO.
-    
-    REGLA DE ORO DE FORMATO:
-    - NO me saludes.
-    - NO confirmes que recibiste la orden.
-    - NO digas "Aquí tienes el informe".
-    - COMIENZA DIRECTAMENTE con el título en Markdown: # Daily Intelligence Briefing - {date_str}
-    - Usa un tono frío, profesional, directo y analítico.
-
-    DATA DISPONIBLE:
-    {context_data}
-    
-    INSTRUCCIONES DE CURATORÍA:
-    1. PRIORIDAD: Selecciona los eventos con mayor potencial de impacto estructural.
-    2. DIVERSIDAD: No permitas que un solo actor o país domine más del 40% del reporte.
-    3. PROFUNDIDAD: Explica POR QUÉ esto le importa a un tomador de decisiones como {AUTOR}.
-
-    ESTRUCTURA OBLIGATORIA DEL REPORTE:
-    # Daily Intelligence Briefing - {date_str}
-    ## Resumen Ejecutivo
-    (Escribe 3 párrafos concisos y potentes)
-    
-    ## Análisis de Temas Clave
-    (Desarrolla 5 temas con variedad geográfica y técnica)
-    
-    ## Conclusión Estratégica
-    (Proyección a corto/mediano plazo)
-
-    IMPORTANTE: Al final de todo el texto, añade esta línea de crédito:
-    "{PROYECTO_INFO}"
-    """
+    news_subset = news[:40]
+    prompt = f"Actúa como un experto analista. Resume estas noticias para Carlos Dagorret. Usa Markdown y sé conciso:\n\n{json.dumps(news_subset)}"
 
     try:
-        # Llamada a la IA
-        response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
-        content_md = response.text
+        print("🧠 Consultando a la IA (Gemini)...")
+        response = model.generate_content(prompt)
         
-        # --- FILTRO DE SEGURIDAD (La "mordaza" por código) ---
-        # Si la IA llega a saludar, cortamos todo lo que esté antes del primer '#'
-        if "#" in content_md:
-            content_md = content_md[content_md.find("#"):].strip()
-        else:
-            content_md = content_md.strip()
+        # Validación de seguridad por si la respuesta viene vacía
+        if not response.text:
+            raise Exception("La IA devolvió una respuesta vacía")
 
-        # GUARDAR ARCHIVO MARKDOWN
+        fecha_hoy = datetime.now().strftime("%Y-%m-%d")
         os.makedirs("docs/dib", exist_ok=True)
-        md_path = f"docs/dib/{date_str}.md"
         
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(content_md)
-            
-        print(f"✅ Reporte Markdown generado: {md_path}")
-
+        with open(f"docs/dib/{fecha_hoy}.md", "w", encoding="utf-8") as f:
+            f.write(response.text)
+        
+        print(f"✅ Reporte generado: docs/dib/{fecha_hoy}.md")
+        
     except Exception as e:
-        print(f"❌ Error al llamar a Gemini: {e}")
+        print(f"❌ Error crítico en Gemini: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
-    generate_reports()
+    generate_report()
