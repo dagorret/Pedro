@@ -13,7 +13,7 @@ if not API_KEY:
 
 genai.configure(api_key=API_KEY)
 # Para el magazine usamos 1.5-flash porque maneja ventanas de contexto grandes (útil para mucha data semanal)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 def generate_magazine():
     input_path = "data/tech_accumulator.json"

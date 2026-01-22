@@ -12,7 +12,7 @@ if not API_KEY:
     sys.exit(1)
 
 genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 def generate_report():
     # ... (el resto del código se mantiene igual) ...
