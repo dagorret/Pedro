@@ -2,35 +2,45 @@ name: Ciclo de Inteligencia Pedro
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 20:00 UTC (Ajustá según tu hora local)
-    - cron: '0 23 * * *' 
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+    # 00:18 UTC = 21:18 Argentina
+    - cron: '18 0 * * *'  
+  push:
+    branches: [ main ]
+    paths:
+      - "pedro.py"
+      - ".github/workflows/**"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: pedro-inteligencia
+      cancel-in-progress: true
+
     steps:
       - name: Checkout del código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Instalar dependencias
         run: |
+          python -m pip install --upgrade pip
           pip install google-generativeai requests beautifulsoup4
 
       - name: Ejecutar Pedro
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python3 pedro.py
+        run: python pedro.py
 
       - name: Subir cambios a GitHub
         run: |
-          git config --global user.name "Pedro AI"
-          git config --global user.email "pedro@ia.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Actualización automática: $(date)" || echo "No hay cambios"
+          git commit -m "Pedro Report: $(date +'%Y-%m-%d %H:%M:%S')" || echo "Sin cambios"
           git push
