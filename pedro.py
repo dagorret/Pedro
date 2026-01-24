@@ -28,13 +28,15 @@ def main():
     else:
         print("⚠️ Advertencia: El reporte diario falló o no generó contenido. Se conserva JSON.")
 
-    # 4. CICLO ESPECIAL: MAGAZINE TECH (Solo los Viernes)
-    # 4 = Viernes en weekday()
-    if ahora.weekday() == 4:
-        print("📅 Hoy es viernes: Iniciando generación de Magazine (CTW)...")
+    # 4. CICLO ESPECIAL: MAGAZINE TECH
+    # Se ejecuta si es Viernes (4) O si la variable de entorno FORCE_MAGAZINE es "true"
+    force_env = os.environ.get("FORCE_MAGAZINE", "false").lower() == "true"
+
+    if ahora.weekday() == 4 or force_env:
+        print("📅 DISPARADOR: Iniciando generación de Magazine (CTW)...")
         resultado_mag = subprocess.run(["python3", "scripts/magazine_engine.py"])
-        
-        # Si el magazine salió bien, reseteamos el acumulador semanal
+
+        # Resetear acumulador si tuvo éxito
         if resultado_mag.returncode == 0:
             acc_path = "data/tech_accumulator.json"
             if os.path.exists(acc_path):
