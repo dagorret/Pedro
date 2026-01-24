@@ -69,7 +69,7 @@ def generate_magazine():
     1. Título Creativo y la Fecha de hoy ({datetime.now().strftime('%Y-%m-%d')}).
     2. 'El Gran Tema': Elige la tendencia más disruptiva de estos datos y analízala.
     3. 'Secciones': IA, Hardware y Gadgets, Software y Ciberseguridad.
-    4. 'Veredicto de Pedro': Una conclusión sarcástica pero inteligente sobre el estado de la tecnología esta semana.
+    4. 'Veredicto de Carlos': Una conclusión sarcástica pero inteligente sobre el estado de la tecnología esta semana.
 
     DATOS RECOLECTADOS:
     {json.dumps(tech_subset, ensure_ascii=False)}
