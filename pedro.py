@@ -47,6 +47,7 @@ def main():
     subprocess.run(["python3", "scripts/generator.py"])
     
     print(f"--- ✅ FIN DEL CICLO PEDRO: {datetime.datetime.now()} ---")
+    # Despertando a Pedro
 
 if __name__ == "__main__":
     main()
