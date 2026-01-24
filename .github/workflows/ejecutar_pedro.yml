@@ -9,7 +9,12 @@ on:
     paths:
       - "pedro.py"
       - ".github/workflows/**"
+      - "scripts/**"  # Agregado para que también dispare si cambias los motores
   workflow_dispatch: # Activa el botón manual en la web de GitHub
+
+# ESTO ES VITAL: Permite que el BOT de GitHub pueda escribir archivos en tu repo
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,6 +26,8 @@ jobs:
     steps:
       - name: Checkout del código
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Trae todo el historial para evitar líos con el push
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -35,7 +42,7 @@ jobs:
       - name: Ejecutar Pedro
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          # ESTA ES LA CLAVE: Si se dispara manualmente, FORCE_MAGAZINE será "true"
+          # Si apretás el botón "Run Workflow", esto fuerza la generación del Magazine
           FORCE_MAGAZINE: ${{ github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
         run: python pedro.py
 
@@ -43,6 +50,14 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Agregamos los archivos generados
           git add .
-          git commit -m "Pedro Report: $(date +'%Y-%m-%d %H:%M:%S')" || echo "Sin cambios"
-          git push
+          
+          # Solo hacemos commit si hay cambios reales para evitar errores
+          if ! git diff --cached --quiet; then
+            git commit -m "Pedro Report: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin main
+          else
+            echo "No hay cambios detectados para subir."
+          fi
