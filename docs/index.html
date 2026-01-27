@@ -3,20 +3,23 @@
     <html lang="es">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Carlos Dagorret Intelligence</title>
         <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
         <style>
             :root { --bg: #0d1117; --card: #161b22; --text: #f0f6fc; --accent: #58a6ff; --tech: #7ee787; --border: #30363d; }
             body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; max-width: 1100px; margin: 0 auto; padding: 20px; }
+            header { margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
+            h1 { font-size: 1.8em; }
             .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
             .box { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px; min-height: 400px; }
-            .list-item { display: block; padding: 10px; border: 1px solid var(--border); margin-bottom: 8px; border-radius: 5px; color: var(--accent); text-decoration: none; font-size: 0.9em; transition: 0.2s; }
+            .list-item { display: block; padding: 12px; border: 1px solid var(--border); margin-bottom: 10px; border-radius: 6px; color: var(--accent); text-decoration: none; font-size: 0.9em; transition: 0.2s; }
             .list-item:hover { background: #1f242c; border-color: var(--accent); }
             .mag-section { margin-top: 50px; border-top: 2px solid var(--tech); padding-top: 20px; }
-            .mag-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; }
-            .mag-card { border: 1px solid var(--tech); color: var(--tech); padding: 15px; border-radius: 8px; text-decoration: none; text-align: center; font-weight: bold; transition: 0.2s; }
-            .mag-card:hover { background: #1c2a22; transform: translateY(-2px); }
-            footer { text-align: center; margin-top: 50px; color: #8b949e; font-size: 0.8em; padding-bottom: 40px; }
+            .mag-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; margin-top: 15px; }
+            .mag-card { border: 1px solid var(--tech); color: var(--tech); padding: 20px; border-radius: 8px; text-decoration: none; text-align: center; font-weight: bold; transition: 0.3s; background: rgba(126, 231, 135, 0.05); }
+            .mag-card:hover { background: #1c2a22; transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.5); }
+            footer { text-align: center; margin-top: 60px; color: #8b949e; font-size: 0.8em; padding-bottom: 40px; border-top: 1px solid var(--border); padding-top: 20px; }
             @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
         </style>
     </head>
@@ -24,31 +27,36 @@
         <header>
             <h1>🕵️ Carlos Dagorret Intelligence</h1>
         </header>
+        
         <div class="grid">
             <div class="box">
-                <h3 style="color: var(--accent)">Último Briefing Diario</h3>
-                <zero-md src="dib/2026-01-24.md">
+                <h3 style="color: var(--accent); margin-top:0;">Último Briefing Diario</h3>
+                <zero-md src="dib/2026-01-27.md">
     <template>
         <style>
             .markdown-body { background:transparent!important; color:#e6edf3!important; font-family:sans-serif; line-height:1.6; }
             h1,h2,h3 { color:#58a6ff!important; border-bottom:1px solid #30363d!important; margin-top:24px; }
             li { margin-bottom: 8px; }
             blockquote { border-left: 4px solid #30363d; padding-left: 16px; color: #8b949e; }
+            a { color: #58a6ff; }
         </style>
     </template>
     </zero-md>
             </div>
+
             <div class="box">
-                <h3 style="color: var(--accent)">Historial Reciente</h3>
-                <a href="visor.html?src=dib/2026-01-22.md" class="list-item">📅 DIB - 2026-01-22</a>
+                <h3 style="color: var(--accent); margin-top:0;">Historial Reciente</h3>
+                <a href="visor.html?src=dib/2026-01-24.md" class="list-item">📅 DIB - 2026-01-24</a><a href="visor.html?src=dib/2026-01-22.md" class="list-item">📅 DIB - 2026-01-22</a>
             </div>
         </div>
+
         <div class="mag-section">
             <h2 style="color: var(--tech)">🔬 Weekly Tech Magazine (CTW)</h2>
             <div class="mag-grid">
                 <a href="visor_tech.html?src=ctw/2026-01-24.md" class="mag-card">🛰️ MAGAZINE TECH - 2026-01-24</a>
             </div>
         </div>
+
         <footer>Generado por Pedro, un proyecto basado en Gemini AI - 2026</footer>
     </body>
     </html>
