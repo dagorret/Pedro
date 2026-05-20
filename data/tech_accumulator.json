@@ -3328,5 +3328,875 @@
         "title": "Data readiness for agentic AI in financial services",
         "source": "https://www.technologyreview.com/feed/",
         "cat": "Technology"
+    },
+    {
+        "title": "Google just declared itself a contender in AI design at IO 2026",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Discord enables end-to-end encrypted voice and video calling for every user",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Mach Industries just spent $50M to solve a major defense tech problem",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google’s Genie world model can now simulate real streets with Street View",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google Search as you know it is over",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "California’s Wildfire Season Is Already Overactive",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google Makes It Easy to Deepfake Yourself",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Best Action Cameras for All Your Craziest Adventures (2026)",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "FBI seeks US-wide access to license plate cameras, wants 'data in near real time'",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Spider-Noir final trailer gives us a classic villain",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "'I'll buy 10 of those'—NASA science chief yearns for mass-produced satellites",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "The era of 1,000 Hz gaming monitors has arrived, but why?",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "EV drivers will pay $130 a year under Congress' 2026 transportation bill",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Civilization VII finally lets you build a civ that stands the test of time",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Electrical utility megamerger is all about the data centers",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "In addition to space stations, Vast says it will now build high-power satellites",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Mercury logic programming system",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple unveils new accessibility features",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "GitHub is investigating unauthorized access to their internal repositories",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Minnesota becomes first state to ban prediction markets",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Evals Will Break and You Won't See It Coming",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Gemini CLI will stop working from June 18, 2026",
+        "source": "https://news.ycombinator.com/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "These backyard solar panels saved me $20/mo on my power bill - here's my setup",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "6 reasons why Firefox is the better browser for most users",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google overhauls its AI plans - which one should you now choose?",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "I tested Sony's new premium headphones, and they define practical luxury for me",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "6 Android Auto apps I wish I found sooner, because they make every drive easier",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "I tested the Surface Pro with 5G, and it's Microsoft's most complete business 2-in-1 yet",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Marshall Milton ANC headphones aim to combine portability with performance",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "I used Motorola's version of DeX with my Razr Fold, and it's nearly replaced my laptop",
+        "source": "https://www.zdnet.com/news/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Kickstarter rolls back its mature content policy after outcry",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Android XR is finally starting to feel real",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Discord now has end-to-end encryption on all calls",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Firefox AI guardrails arrive for mobile",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Apple Sports app expands to 90 new markets ahead of the World Cup",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google debuts AI-powered tools to optimize scientific research workflows",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Fortnite is returning to the App Store globally, a year after its US comeback",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Minnesota passes prediction markets ban",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "All the news you might have missed from Google I/O 2026",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Xbox Game Pass additions for late May include Forza Horizon 6 and Remnant II",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's Gemini Spark is an agentic AI assistant",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's redesigned Gemini comes with a new interface and AI models",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's Gemini Omni can generate 'anything from any input,' starting with video",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google says Gemini 3.5 Flash rivals 'large flagship models' for coding and agentic tasks",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Así ha cambiado Internet en los 20 años transcurridos desde el lanzamiento de Genbeta",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos. Ellos tienen claras las razones",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meta se ha puesto a la cabeza de la carrera de los agentes de IA adquiriendo Manus por 2.000 millones de dólares",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "'Será un trabajo estresante', promete Sam Altman en esta oferta. Por eso ofrece más de medio millón de dólares de sueldo",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "El CEO de Randstad afirma que el teletrabajo ahora se reserva solo para talentos 'muy especiales' y explica quién tiene este perfil",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "He comprado online porque en mi pueblo cada vez hay menos tiendas.... y siento que el proceso agota: es como horas extra de trabajo",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "El cibercrimen ya no sólo es digital: 2025 ha sumado muertes y torturas a su historial",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La IA ha desatado la furia de este creador del lenguaje Go. Sólo ha necesitado enviarle un e-mail de agradecimiento",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Cadenas de TV como Telecinco o Antena 3 critican los 'realities' de Internet: 'La Casa de los Gemelos' campa a sus anchas en YouTube",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "El planazo pionero de China para evitar que los chatbots de IA aconsejen mal: recurrir a los humanos cuando hay temas espinosos",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer emprender. El SEPE ve aquí un reto",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ubuntu es la distribución Linux más exitosa, pero hasta ellos tuvieron que cancelar estos ocho proyectos",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la gente ser máquinas sin descanso",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sancionado un capitán del Ejército que permitió instalar un ordenador en una base militar de Zaragoza para minar criptomonedas",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "‘Maximum Pleasure Guaranteed’ premieres on Apple TV",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "WhatsApp working on messages that disappear once you’ve read them",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple’s global F1 ambitions hit roadblock as Sky extends U.K. and Italy rights",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "‘Pluribus’ lead Rhea Seehorn joins upcoming Apple Original Film ‘Running’",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple strikes talent and IP deal with virtual avatar startup Animato",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 26’s Wallet app has long-awaited order tracking fix, here’s how to use it",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Disney announces three new Disney+ and Hulu app features",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "9to5Mac Daily: May 19, 2026 – WWDC invites, iOS 27 expectations",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Spotify confirms CarPlay bug causing wrong song info to appear",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Everything Google announced at I/O 2026: Gemini, Search, Android XR, & more",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple TV announces four new Peanuts premieres coming this summer",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Here’s how Johny Srouji plans to speed up Apple’s product development: report",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple Sports app launches World Cup support, expands availability worldwide",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 27’s new video feature could prove one of Apple’s best additions",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "5 important Gemini updates from Google I/O that could genuinely save you time",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold 8 Wide vs. Motorola Razr Fold: Will it be worth the compromise?",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Motorola Razr 2026 vs. Razr 2025: A few steps forward, one big step back",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Did Google use a MacBook during its live demo at Google I/O?",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google’s new $100 AI plan wants to turn Gemini into a full productivity machine",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Samsung, Google merge fashion and AI for 'Intelligent Eyewear' with Gentle Monster, Warby Parker",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google is giving Search its biggest overhaul in 25 years",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Planning a wedding? Google's new Gemini Spark AI agents might actually help",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google thinks Gemini 3.5 Flash can finally make AI agents more useful",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google's new YouTube AI tools could make AI slop impossible to escape",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google I/O gets into a Flow: preps Flow Music app and generative editing for on-the-go",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Dreaming of Project Genie? Google I/O unveils 'Street View,' putting imaginary worlds into ours",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Tired of video editing? Google’s Gemini Omni changes scenes when you ask",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google Workspace just went 'Live' with Docs and Gmail, using your voice for less stress",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "AI sackings reach New Zealand, which will use it to eject 14 percent of government staff",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Anthropic’s Stainless steal tightens grip on AI dev tooling",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google accused of pushing 'free for life' G Suite users onto paid plans",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Frustrated franchisee sues Pizza Hut over crappy kitchen AI",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google touts its tokenmaxxing and capex spending amid AI orgy",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Firefox 151 helps you edit PDFs – and switch OSes",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens – and incredibly obvious filenames",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Shadow AI invades the workplace, up 4x in the last year",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Airbus gets HPC-as-a-service supercomputer from Bull",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Clear your calendar, Drupal user: You have a critically urgent patch to install",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "SAP customers warned AI agents could put costs on autopilot",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Microsoft refreshes Surface for Business lineup, starts AI PC upsell at $1,499",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "X limits hot takes from freeloaders to 50 a day",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Shai-Hulud keeps burrowing: 314 npm packages infected after another account compromise",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Armada raises $230M at $2B valuation to build portable AI data centers",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google Flow adds agentic brainstorming, more precise editing tools and sharing features",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google to embed AI shopping features in multiple services with Universal Cart",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Becoming AI-native is no longer a path to success — it’s an operational prerequisite",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google, Blackstone launch AI infrastructure joint venture",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Enterprise AI is ready — Michael Dell says executives need to be, too",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Five takeaways from Michael Dell’s keynote at Dell Technologies World 2026",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Workspace gets new voice, image editing and inbox tools as Google adds AI capabilities",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google reimagines search with AI agents and generative interfaces",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "With expanded Antigravity platform, Google accelerates agent-native software development",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google expands AI-powered app discovery and Android development tools at I/O",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google’s new Gemini Spark is an always-on AI agent for daily digital tasks",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google targets AI agents and video generation with Gemini 3.5 Flash and Omni",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "What Makes a Job Dull, Dirty, or Dangerous?",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Striking New Views of the First Atomic Bomb Test",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ana Inês Inácio Designs the Future of Wireless",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Learn What It Takes to Become a Cybersecurity Consultant",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Understanding the modern cybercrime landscape",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "What to expect from Google this week",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Signals That Matter – MIT Insider’s Panel",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
     }
 ]
