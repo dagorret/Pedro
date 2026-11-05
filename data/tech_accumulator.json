@@ -13708,5 +13708,615 @@
         "title": "The Download: AI agent tracking and climate feedback loops",
         "source": "https://www.technologyreview.com/feed/",
         "cat": "Technology"
+    },
+    {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Snapchat surpasses 30M paid subscribers",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meta acquires AI coding startup Conductor",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sequoia hits rewind, undoing 20 years of expansion",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hackers exploited iOS and Android flaws to infect phones",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "People say they want small smartphones—the Enough Phone will put that to the test",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "What I learned driving the Slate electric truck prototype",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "The DEA banned a drug some opioid users called a miracle",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "California fights 'preposterous' Trump admin demand to scrap state broadband laws",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Pangram expands its AI detection tools to video and images",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Xbox is testing two new controller options for Cloud Gaming",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "God of War Laufey is delayed until May 20",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Bluetooth is going to get a lot faster in 2027",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Elon Musk spent nearly $500 million on the midterms and lost big-time",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Americans overwhelmingly voted against data centers in the midterms",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Legend of Zelda: Ocarina of Time review: A masterpiece reborn",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Valve just changed its Steam release rules amid a flood of AI games",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "iPad mini OLED vs. iPad mini: What's new?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Your phone's apps could have more permissions than they need – here's how to check",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "El creador de 'Minecraft' pide 70 millones de dólares por una mansión en Beverly Hills con 15 baños y discoteca privada",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Los titulares de derechos de Elvis Presley demandan a Anthropic",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Una jubilada alemana compra una casa en la serranía de Ronda (Málaga), y busca voluntarios para ayudarla a restaurarla 18 horas semanales a cambio de alojamiento y comida gratis",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La IA está transformando las profesiones STEM: una encuesta recoge salidas de trabajadores relacionadas con ella",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Un ciberataque golpea a supermercados franceses y pone sus sistemas de refrigeración a 50 grados",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La psicología dice que las personas que hablan alto y a veces gritan no son agresivas; en realidad, sienten las emociones con más fuerza que el resto",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Los residentes de la zona de Casselton cuestionan la ubicación del centro de datos en tierras agrícolas de primera",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Noruega se plantea prohibir gafas inteligentes con cámara en parques y colegios",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Una empresa descontaba 30 minutos al día a sus trabajadores por supuestas “micropausas”. La Audiencia Nacional anuló el sistema",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hacienda obliga a tributar por las propinas que reciben los trabajadores, pero cotizarán si lo recoge el convenio o las gestiona la empresa",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Crean cucarachas cyborg guiadas por IA",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ya está disponible: Bizum amplía los pagos en España y los compradores pueden pagar en tiendas físicas sin necesidad de tarjeta, siempre que acepten el servicio",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sergio Ramos compró una finca de 44 hectáreas,  donde cría caballos y desarrolla un proyecto de 12.000 metros cuadrados: “Una de las jornadas más especiales del año; tradición, familia y raíces”",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Brett Adcock, CEO de Figure AI y joven gurú de la IA: “Estamos creando una nueva especie”",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "'Es una cuestión de salud mental': cada vez más padres están pagando hasta 260 euros la noche a niñeras nocturnas",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Next year’s iPhone Pro redesign gets new update from leaker",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meta brings Conductor on board its model train",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Building AI factories at enterprise scale",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Fedora 45 is finally finished and fit",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Turn your home into a giant crane game with this open source robot",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "VMware returns to low-end server virtualization with 'vSphere Express'",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Phaze raises $8.75M to give AI agents remote access to powerful workstations",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Kyndryl shares surge 30% on hyperscaler-related revenue growth",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "French blood banks hacked amid ‘deeply concerning’ wave of fridge and freezer cyberattacks in Europe",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Amazon, Microsoft and other tech giants close higher after Democrats’ midterm sweep",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Cyber ups and downs: Datadog falls 14% on outlook tied to one customer as Rapid7 jumps and Fastly slides",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "AI agents meet billable hours as Certinia rethinks services delivery",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Arista’s record quarter shows the network has become central to AI",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Research prediction: Shift from digital banking to AI-driven finance will transform financial services in 2027",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Oracle connects AI-driven testing with a new approach to database security",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "As AI takes over coding, Oracle rethinks how applications are built",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Oracle rethinks the lakehouse as AI agents become data consumers",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Oracle urges database customers to prepare for quantum security risks",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Consumer Appetite for Personal AI Goes Mainstream",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Systems Thinking Is Vital in the Age of AI",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "IEEE Xplore Digital Library Adds AI Assistant",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Build a Hidden Lock With a Magnetic Imager",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why AI Can’t Replace Engineering Teams",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why Engineers Should Brave Capitol Hill",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Securing the agentic enterprise with data lineage",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Raising the quality of insights in agentic analytics",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Stop counting tokens, start counting what ships",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
     }
 ]
