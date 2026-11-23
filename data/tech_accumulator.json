@@ -1288,5 +1288,675 @@
         "title": "Hydropower hit record lows in the US Southwest this summer",
         "source": "https://www.technologyreview.com/feed/",
         "cat": "Technology"
+    },
+    {
+        "title": "You are unable to access techcrunch.com",
+        "source": "https://techcrunch.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Banks Have Had It Up to Here With Your AI Agent",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Outages Are Just Getting Started",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Best Laptops for Travel (2026): Which to Take on the Road",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Manosphere Isn’t Ready for Brothercore",
+        "source": "https://www.wired.com/feed/rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "“Race realism” isn’t realistic—and it isn’t good science",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Watching as a giant star swallowed its neighbor and exploded",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Army delays detonating 'catastrophically hazardous' lead azide amid fear, anger",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "US will soon announce root cause behind FAA nationwide ground stop",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+        "source": "https://feeds.arstechnica.com/arstechnica/index",
+        "cat": "Technology"
+    },
+    {
+        "title": "Here's how much Starlink cost in 2020 vs. 2026",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "How to clear your cache on Google TV",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Should you go with a headphone DAC/amp combo or a stack?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "8 Windows apps you should probably remove from your PC",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Public vs. private IP addresses: what's the difference?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "What is the best way to secure your PlayStation 5 for a flight?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "How to use AI glasses as a teleprompter",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "The pros and cons of sharing your location",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Can you safely use a 140w charger on an iPhone?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "This free app connects your Android phone to your Windows PC wirelessly",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "The cool phone camera trick that can test your remote control's battery",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Which solar panel type is best for your home?",
+        "source": "https://www.engadget.com/rss.xml",
+        "cat": "Technology"
+    },
+    {
+        "title": "Una vez allí, la temperatura ronda los 20 grados y el almuerzo cuesta 5 euros: el mejor destino para unas vacaciones en diciembre",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "'Fue eclipsado por el inmenso éxito de CrossFit': las razones de la caída de Greg Glassman, inventor de la disciplina",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Miriam, camionera: 'Paso hasta 24 días fuera y, al volver, tengo tres o cuatro para ver a mis amigos, descansar y preparar las siguientes rutas'",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La reflexión de Arturo Pérez-Reverte sobre los perros: “Nadie que no haya convivido con ellos conocerá hasta dónde llega la lealtad”",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Los expertos en longevidad coinciden: “La cesta de la compra debe tener huevos, aguacate, arándanos y frutos secos”",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Unos arqueólogos han desenterrado en Francia una vasija llena con decenas de miles de monedas romanas de hace 1.800 años",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Una familia quiso vivir solo con paneles solares, agua de pozo y un huerto. Hasta que Italia le quitó a sus hijos",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Ayudar al camarero a recoger la mesa parece un gesto amable: los psicólogos ven algo mucho más profundo",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "La nueva vida de Coto Matamoros, excolaborador de Telecinco, viviendo en un pueblo gallego con una estatua en honor al Che Guevara",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Durante miles de años los seres humanos hemos evitado atravesar el desierto de Taklamakán. Ahora China está criando pescado allí",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "'El único sitio del mundo donde soy simpático y feliz': Hugh Grant encontró su refugio de paz en un pueblo del sur de Francia",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "En 2019, Iberia perdió a una perra antes de volar. Ahora la Justicia europea dice que vale lo mismo que una maleta",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hace 60 años, la Unión Soviética secó un mar entero para regar cultivos de algodón: hoy ya se han plantado arbustos en 1,7 millones de hectáreas para frenar la erosión y las tormentas de polvo",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "En Japón, un hombre se encuentra con un Toshiba Libretto 50 con Windows 95 que era un ordenador portátil de lujo a su salida en 1997",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "Muchas empresas firman el paro a un trabajador que se marcha voluntariamente: el SEPE tiene un mensaje para ellos",
+        "source": "http://feeds.weblogssl.com/genbeta",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 27: My favorite new iPhone features (other than AI)",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "iOS 27 lets you use two iPhones with the same phone number",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
+        "source": "https://9to5mac.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Xiaomi 18 Pro back display is a masterpiece - and Google needs to add it to android",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Forget the iPhone Duo and Z Fold 8 – this foldable has it all",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google sets hard deadline for the Nest app and smart display Assistant",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Forget the Buds 3—Galaxy Buds 4 Pro deal drops it almost 30%, and I can hear the heart-pounding bass already",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Is wide the next phone craze? The new Huawei Osta O1 Pro looks like a fat iPhone Air",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "This phone company launched a landline built for kids, and it's a safer, cheaper alternative to handing your child a smartphone",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Amazon's new budget-friendly tablet has crashed down to under £100 in a lowest-ever price deal",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "I regret buying the Sony WH-1000 XM5 instead of the XM4 — especially at this sub-$200 Black Friday price",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "An affordable way into the Samsung ecosystem? The brand's best entry-level tablet is under $200 right now",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "I’m saying goodbye to my old smart speaker in favor of the Echo Dot Max this Black Friday — all because it’s less than $100",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "‘The best speaker you can get for under 40 bucks’ — this super portable Bluetooth speaker is a holiday must-have",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Android's sideloading freedom is about to get a lot more complicated worldwide",
+        "source": "https://www.androidcentral.com/feed",
+        "cat": "Technology"
+    },
+    {
+        "title": "Techie turned his too-easy job interview into a trap",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Google claims last week’s critical VMware bug was under attack in September",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "As cars go digital, US consumers pay an extra $12 billion a year for repairs",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "ChatGPT shrunk down to run on a Super Nintendo",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "NASA Mars rover and orbiter suffer glitches",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "PHP 8.6: Things are gonna get a lot more strict around here",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Signal slams door on prying AI agents to protect privacy",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+        "source": "https://www.theregister.com/headlines.rss",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sovereignty starts with data, not chips, says Stuttgart AI factory chief",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Sovereign AI: Where control becomes an architectural requirement",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "CrowdStrike reportedly in talks to acquire cybersecurity provider Zscaler",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Three insights you may have missed from theCUBE’s coverage of the Dell Technologies New York Symposium",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Trump announces plan to tax US companies that build data centers abroad",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Equifax cuts database firefighting after moving billing to Oracle on AWS",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Inference pushes AI to smaller sites, making the data layer the deciding factor",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Own, don’t rent: Why agentic AI is pulling cloud computing back on-prem",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Anthropic goes public, but is it too late to save the AI trade?",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Enterprise AI hits a wall of power and cooling, not GPU supply",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation",
+        "source": "https://siliconangle.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Build a Personal Brand to Help Employers Find You",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "AI Is Giving Optical Computing Another Shot",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
+        "source": "https://spectrum.ieee.org/rss/fulltext",
+        "cat": "Technology"
+    },
+    {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: inside the quest to make our minds immortal",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "A human liver has been kept alive outside the body for a record seven weeks",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "What a billion-dollar deal says about the US battery market",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The AI Hype Index: AI is everywhere",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "The Download: AI learns to smell and hydropower struggles",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "This smell startup says its AI nose is as good as a human’s",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
+    },
+    {
+        "title": "Hydropower hit record lows in the US Southwest this summer",
+        "source": "https://www.technologyreview.com/feed/",
+        "cat": "Technology"
     }
 ]
